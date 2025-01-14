@@ -654,7 +654,6 @@ return [
             'fucknutt',
             'fuckoff',
             'fuckpig',
-
             'fuckstick',
             'fucktard',
             'fucktart',
